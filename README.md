@@ -63,4 +63,15 @@
 #### 🔧 Misc
 
 <p align="left">
-  <a href="https://www.gnu.org/software/bash/"><img src="http
+  <a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+> (можно добавить позже с помощью [github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
+
+---
+
+Хочешь — могу тебе собрать это в `README.md` файл, готовый к загрузке, и кинуть как `.zip` или просто скинуть Markdown. Скажи, как удобнее.
